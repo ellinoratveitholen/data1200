@@ -57,3 +57,7 @@ a {
 .allergener {
     color: red;
 }
+
+.footer {
+    display: flex;
+}

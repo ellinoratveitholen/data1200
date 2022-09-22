@@ -37,9 +37,11 @@ a {
     font-size: 200%;
 }
  
-.menyen h6 {
+.menyen p {
+    display:block;
     font-size: 150%;
     margin: 30px;
+    font-weight: bold;
 }
 
 .menyen h4 {

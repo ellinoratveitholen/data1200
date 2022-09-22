@@ -97,12 +97,20 @@ a {
     font-weight: bold;
 }
 
+<<<<<<< HEAD
+
+.allergener{
+    display: block;
+    color: rgb(94, 57, 12);
+=======
 .menyen h4 {
     color: rgb(124, 12, 23);
+>>>>>>> 40d9d24e18563e836c32afa972f17b1c0bb849ae
     margin-top: 0px;
     margin-bottom: 0px;
+    font-weight: bold;
 }
- 
+
 .forrett {
     margin-bottom: 100px;
 }
@@ -115,9 +123,12 @@ a {
     margin-top: 0px;
 }
 
+<<<<<<< HEAD
+=======
 .allergener {
     color: rgb(108, 38, 38);
 }
+>>>>>>> 40d9d24e18563e836c32afa972f17b1c0bb849ae
 
 .footer {
     margin-left: 15%;

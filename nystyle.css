@@ -41,6 +41,12 @@ a {
     font-size: 150%;
     margin: 30px;
 }
+
+.menyen h4 {
+    color: rgb(95, 55, 5);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
  
 .forrett {
     margin-bottom: 100px;
@@ -59,5 +65,31 @@ a {
 }
 
 .footer {
-    display: flex;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.footer ul li {
+    list-style: none;
+    margin-top: 0%;
+    font-size: 105%;
+}
+
+.footer h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 200%;
+    margin-left: 15%;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+.footer h5 {
+    font-size: 150%;
+}
+
+.footer.åpningstider {
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    margin-left: 4%;
+    margin-top: 0px;
 }

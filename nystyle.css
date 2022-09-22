@@ -43,7 +43,7 @@ a {
 }
 
 .menyen h4 {
-    color: rgb(94, 57, 12);
+    color: rgb(124, 12, 23);
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -61,7 +61,7 @@ a {
 }
 
 .allergener {
-    color: red;
+    color: rgb(108, 38, 38);
 }
 
 .footer {
@@ -93,3 +93,14 @@ a {
     margin-left: 4%;
     margin-top: 0px;
 }
+
+.footer.omoss{
+  background-color: rgb(185, 184, 150);
+  text-align: left;
+  width: 400px;
+  height: 100px;
+  margin-top: 5%;
+  margin-bottom: 1%;
+  
+}
+

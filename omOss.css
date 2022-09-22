@@ -1,3 +1,8 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(227, 185, 135);
+}
+ 
 
 .navbar {
     overflow: hidden;
@@ -47,77 +52,8 @@
     
   }
 
+  /* Navigation bar ^^*/
 
-/*NAVIGATION BAR^^ */
-
-
-* {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(227, 185, 135);
-}
- 
-a {
-    color: rgb(103, 64, 18);
-    font-family: fantasy;
-    font-size: 150%;
-}
- 
- 
-.restaurantnavn {
-    text-align: center;
-    font-size: 200%;
-}
- 
-.restaurantnavn h1 {
-    font-family: 'Kaushan Script', cursive;
-    font-size: 300%;
-}
- 
-.restaurantnavn h2 {
-    font-size: 150%;
-}
- 
-.menyen {
-    margin-left: 25%;
-    margin-top: 10%;
-}
- 
-.menyen ul li {
-    list-style: georgian;
-}
- 
-.menyen h3 {
-    font-size: 200%;
-}
- 
-.menyen p {
-    display:block;
-    font-size: 150%;
-    margin: 30px;
-    font-weight: bold;
-}
-
-.menyen h4 {
-    color: rgb(124, 12, 23);
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
- 
-.forrett {
-    margin-bottom: 100px;
-}
- 
-.hovedretter {
-    margin-bottom: 100px;
-}
- 
-.desserter {
-    margin-top: 0px;
-}
-
-.allergener {
-    color: rgb(108, 38, 38);
-}
 
 .footer {
     margin-left: 15%;

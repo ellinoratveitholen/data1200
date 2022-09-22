@@ -44,12 +44,15 @@ a {
     font-weight: bold;
 }
 
-.menyen h4 {
+
+.allergener{
+    display: block;
     color: rgb(94, 57, 12);
     margin-top: 0px;
     margin-bottom: 0px;
+    font-weight: bold;
 }
- 
+
 .forrett {
     margin-bottom: 100px;
 }
@@ -62,9 +65,6 @@ a {
     margin-top: 0px;
 }
 
-.allergener {
-    color: red;
-}
 
 .footer {
     margin-left: 15%;

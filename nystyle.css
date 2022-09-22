@@ -93,3 +93,11 @@ a {
     margin-left: 4%;
     margin-top: 0px;
 }
+
+.footer.omoss {
+    border-style: solid;
+    padding-right: 30px;
+    background-color: antiquewhite;
+    width: 400px;
+    
+}

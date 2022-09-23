@@ -26,12 +26,19 @@
     font-size: 18px;
     line-height: 25px;
     border-radius: 4px;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(103, 64, 18);
+    font-family: fantasy; 
   }
   
   
-  .navbar a.logo {
+  .navbar .logo {
     font-size: 25px;
     font-weight: bold;
+    color: rgb(103, 64, 18);
+    font-family: fantasy;
+    font-size: 150%; 
   }
   
 
@@ -40,13 +47,14 @@
     color: black;
   }
   
-  .navbar a.active {
-    background-color: dodgerblue;
-    color: white;
-  }
   
   .header-right {
     float: right;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(103, 64, 18);
+    font-family: fantasy;
+    font-size: 150%;
   }
   
   * {

@@ -44,15 +44,6 @@
   }
   
   
-  .header-right {
-    float: right;
-    font-size: 25px;
-    font-weight: bold;
-    color: rgb(103, 64, 18);
-    font-family: fantasy;
-    font-size: 150%;
-  }
-  
   * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     

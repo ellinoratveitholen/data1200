@@ -3,7 +3,6 @@
     background-color: rgb(227, 185, 135);
 }
  
-
 .navbar {
     overflow: hidden;
     background-color: rgb(227, 185, 135);
@@ -16,7 +15,6 @@
       align-items: center;
   }
   
-  
   .navbar a {
     float: left;
     color: black;
@@ -26,28 +24,26 @@
     font-size: 18px;
     line-height: 25px;
     border-radius: 4px;
-  }
-  
-  
-  .navbar a.logo {
     font-size: 25px;
     font-weight: bold;
+    color: rgb(103, 64, 18);
+    font-family: fantasy; 
   }
   
+  .navbar .logo {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(103, 64, 18);
+    font-family: fantasy;
+    font-size: 150%; 
+  }
 
   .navbar a:hover {
     background-color: rgb(145, 112, 55);
     color: black;
   }
   
-  .navbar a.active {
-    background-color: dodgerblue;
-    color: white;
-  }
-  
-  .header-right {
-    float: right;
-  }
+ 
   
   * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

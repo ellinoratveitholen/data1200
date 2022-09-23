@@ -73,20 +73,39 @@ a {
     font-size: 150%;
 }
  
+
+.bilde-utseende{
+    display: block;
+  margin-left: %;
+  margin-right: auto;
+  object-fit: cover;
+
+
+}
+
  
 .restaurantnavn {
     text-align: center;
     font-size: 200%;
+    background: url("italiensk restaurant.webp");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 83%;
 }
  
 .restaurantnavn h1 {
     font-family: 'Kaushan Script', cursive;
     font-size: 300%;
+    background-color: transparent;
 }
  
 .restaurantnavn h2 {
     font-size: 150%;
-    margin-top: 20%;
+    margin-top: 50%;
+    background-color: transparent;
+    color: black;
+    
 }
  
 .menyen {

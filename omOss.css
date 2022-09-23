@@ -27,14 +27,14 @@
   }
   
   
-  .navbar a.logo {
+  .navbar logo {
     font-size: 25px;
     font-weight: bold;
   }
   
 
   .navbar a:hover {
-    background-color: #ddd;
+    background-color: rgb(145, 112, 55);
     color: black;
   }
   
@@ -54,6 +54,11 @@
 
   /* Navigation bar ^^*/
 
+#omOss {
+  font-size: 150%;
+  margin-top: 20%;
+  font-family: 'Inconsolata', monospace;
+}
 
 .footer {
     margin-left: 15%;

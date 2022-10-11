@@ -9,3 +9,10 @@ img.mann{
   margin-right: auto;
   width: 50%;
 }
+
+.innledning {
+    width: 300px;
+    border: 15px solid gray;
+    padding: 50px;
+    margin: auto;
+}

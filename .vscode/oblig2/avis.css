@@ -5,11 +5,17 @@
     margin-left: 45px;
 }
 
+.sidebar {
+    float: right;
+    width: 100px;
+}
+
 img.mann{
   display: flex;
   margin-left: 10px;
   width: 80%;
 }
+
 
 .tittelbilde figcaption {
     border-style: solid;

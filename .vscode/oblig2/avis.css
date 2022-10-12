@@ -1,17 +1,29 @@
 #overskrift1 {
     font-size: larger;
     color: aquamarine;
+
+    margin-left: 45px;
 }
 
 img.mann{
-    display: flex;
+  display: flex;
   margin-left: 10px;
   width: 80%;
 }
 
+.tittelbilde figcaption {
+    border-style: solid;
+    border-color: rgb(161, 161, 161);
+    width: 80%;
+    margin-left: 10px;
+    font-size: 95%;
+}
+
 .innledning {
-    width: 300px;
-    border: 15px solid gray;
+    width: 600px;
+    border: 2px solid transparent;
     padding: 50px;
     margin: auto;
+    font-size: larger;
+    display: flex;
 }

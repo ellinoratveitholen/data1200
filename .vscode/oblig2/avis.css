@@ -17,6 +17,10 @@
     width: 100%;
 }
 
+.sidebar figcaption {
+    font-size: 70%;
+}
+
 img.mann{
   display: flex;
   margin-left: 10px;

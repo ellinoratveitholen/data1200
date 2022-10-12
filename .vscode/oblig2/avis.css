@@ -1,3 +1,20 @@
+
+
+
+.header {
+    padding: 0cm;
+    text-align: center;
+    background-color: rgb(111, 203, 203);
+    color: white;
+    font-size: 20px;
+}
+
+#tittel {
+    display: flex;
+    float: left;
+    margin-left: 10px;
+}
+
 #overskrift1 {
     font-size: larger;
     color: aquamarine;

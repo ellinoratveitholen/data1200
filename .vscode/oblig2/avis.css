@@ -9,10 +9,26 @@
     font-size: 20px;
 }
 
-#tittel {
+
+.header ul li {
+    margin-top: 2cm;
+    margin-bottom: 1cm;
+    list-style: none;
+    display: inline-block;
+    padding: 50px 100px;
+}
+
+.header ul li.DN {
     display: flex;
     float: left;
-    margin-left: 10px;
+    font-size: 400%;
+    margin-left: 1px;
+}
+
+.header ul li.Nyheter {
+    font-size: 200%;
+    margin-top: 3cm;
+    margin-right: 1px;
 }
 
 #overskrift1 {
@@ -40,6 +56,8 @@
 
 .sidebar p {
     text-indent: 2em;
+    margin-bottom: 1px;
+    margin-top: 1px;
 }
 
 img.mann{

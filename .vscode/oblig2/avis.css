@@ -1,40 +1,9 @@
 
 
 
-.header {
-    padding: 0cm;
-    text-align: center;
-    background-color: rgb(111, 203, 203);
-    color: white;
-    font-size: 20px;
-}
-
-
-.header ul li {
-    margin-top: 2cm;
-    margin-bottom: 1cm;
-    list-style: none;
-    display: inline-block;
-    padding: 10px 100px;
-}
-
-.header ul li.DN {
-    display: flex;
-    float: left;
-    font-size: 400%;
-    margin-left: 1px;
-    margin-top: 1cm;
-}
-
-.header ul li.Nyheter {
-    font-size: 200%;
-    margin-top: 0cm;
-    margin-right: 1px;
-    margin-bottom: 3cm;
-}
 
 #overskrift1 {
-    font-size: xx-large;
+    font-size: small;
     color: black;
 
     margin-left: 45px;
@@ -44,9 +13,8 @@
     float: right;
     width: 13%;
     margin-right: 50px;
-    margin-left: 10px;
 
-    font-size: 90%;
+    font-size: 60%;
 }
 
 .sidebar img {
@@ -65,17 +33,18 @@
 
 img.mann{
   display: flex;
-  margin-left: 10px;
+  margin-left: 5px;
   width: 80%;
+  height: 400px;
 }
 
 
 .tittelbilde figcaption {
-    border-style: solid transparent ;
+    border-style: solid;
     border-color: rgb(161, 161, 161);
     width: 80%;
-    margin-left: 10px;
-    font-size: 95%;
+    margin-left: 5px;
+    font-size: 60%;
 }
 
 .innledning {
@@ -83,23 +52,14 @@ img.mann{
     border: 2px solid transparent;
     padding: 0px;
     margin: auto;
-    font-size: x-large;
+    font-size: small;
     display: flex;
-    text-align: center;
+    width: 70%;
 }
 
-.delEn {
-    float: left;
-    width: 25%;
-    margin-left: 150px;
-    display: inline-block;
-    font-size: 90%;
-}
-
-.delTo {
-    float: right;
-    width: 25%;
-    margin-right: 150px;
-
-    font-size: 90%;
+.innhold {
+    font-size: 80%;
+    columns: 2;
+    width: 75%;
+    
 }

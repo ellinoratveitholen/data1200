@@ -35,7 +35,7 @@ img.mann{
     font-size: 250%;
     font-family: Arial;
     position: absolute;
-    top: 30%;
+    top: 20%;
     color: white;
     background-repeat: no-repeat;
 
@@ -62,8 +62,10 @@ img.mann{
 }
 
 .innhold {
-    font-size: 80%;
-    columns: 2;
+    font-size: 67%;
+    columns: 7;
     width: 75%;
+    margin-left: 30px;
+    
     
 }

@@ -1,14 +1,5 @@
 
 
-
-
-#overskrift1 {
-    font-size: small;
-    color: black;
-
-    margin-left: 45px;
-}
-
 .sidebar {
     float: right;
     width: 13%;
@@ -31,14 +22,25 @@
     margin-top: 1px;
 }
 
+
+
+
 img.mann{
-  display: flex;
-  margin-left: 5px;
+  display: block;
+  margin-left: 10px;
   width: 80%;
   height: 400px;
 }
+#overskrift1 {
+    font-size: 250%;
+    font-family: Arial;
+    position: absolute;
+    top: 30%;
+    color: white;
+    background-repeat: no-repeat;
 
-
+    margin-left: 45px;
+}
 .tittelbilde figcaption {
     border-style: solid;
     border-color: rgb(161, 161, 161);
@@ -47,8 +49,10 @@ img.mann{
     font-size: 60%;
 }
 
+
+
 .innledning {
-    width: 600px;
+    width: 50%;
     border: 2px solid transparent;
     padding: 0px;
     margin: auto;

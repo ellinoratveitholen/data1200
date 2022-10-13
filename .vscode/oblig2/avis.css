@@ -42,7 +42,7 @@ img.mann{
     margin-left: 45px;
 }
 .tittelbilde figcaption {
-    border-style: solid;
+    border-style: solid transparent;
     border-color: rgb(161, 161, 161);
     width: 80%;
     margin-left: 5px;
@@ -55,10 +55,11 @@ img.mann{
     width: 50%;
     border: 2px solid transparent;
     padding: 0px;
-    margin: auto;
     font-size: small;
-    display: flex;
-    width: 70%;
+    display: left;
+    width: 30%;
+    margin-left: 1px;
+
 }
 
 .innhold {

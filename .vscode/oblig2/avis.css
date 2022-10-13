@@ -15,7 +15,7 @@
     margin-bottom: 1cm;
     list-style: none;
     display: inline-block;
-    padding: 50px 100px;
+    padding: 10px 100px;
 }
 
 .header ul li.DN {
@@ -23,12 +23,14 @@
     float: left;
     font-size: 400%;
     margin-left: 1px;
+    margin-top: 1cm;
 }
 
 .header ul li.Nyheter {
     font-size: 200%;
-    margin-top: 3cm;
+    margin-top: 0cm;
     margin-right: 1px;
+    margin-bottom: 3cm;
 }
 
 #overskrift1 {
@@ -68,7 +70,7 @@ img.mann{
 
 
 .tittelbilde figcaption {
-    border-style: solid;
+    border-style: solid transparent ;
     border-color: rgb(161, 161, 161);
     width: 80%;
     margin-left: 10px;

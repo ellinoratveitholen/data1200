@@ -1,3 +1,26 @@
+.grid-container {
+    display: grid;
+  }
+
+  body {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .grid-item {
+    background-color: lightblue;
+    color: black;
+    width: auto;
+    height: auto;
+  }
+
+  .grid-item p{
+    text-orientation: sideways;
+    writing-mode: vertical-lr;
+  }
+
+ 
+
 
 
 .sidebar {

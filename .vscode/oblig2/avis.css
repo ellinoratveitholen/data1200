@@ -1,3 +1,12 @@
+.header{
+    padding: 20px;
+    float: left;
+    color: white;
+    background-color: blue;
+    font-size: small;
+    text-orientation: upright;
+}
+
 .grid-container {
     display: grid;
   }
@@ -12,11 +21,17 @@
     color: black;
     width: auto;
     height: auto;
+    margin-top:20px;
   }
 
   .grid-item p{
     text-orientation: sideways;
     writing-mode: vertical-lr;
+  }
+
+
+  .hovedinnhold{
+    margin-top: 20px;
   }
 
  
@@ -27,7 +42,7 @@
     float: right;
     width: 13%;
     margin-right: 50px;
-
+    margin-top: 20px;
     font-size: 65%;
 }
 
@@ -64,7 +79,6 @@ img.mann{
 }
 .tittelbilde figcaption {
     border-style: solid transparent;
-    border-color: rgb(161, 161, 161);
     width: 80%;
     margin-left: 5px;
     font-size: 60%;

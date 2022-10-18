@@ -4,6 +4,7 @@
     color: white;
     background-color: blue;
     font-size: small;
+    font-family: 'PT Serif', serif;
     text-orientation: upright;
 }
 
@@ -27,6 +28,8 @@
   .grid-item p{
     text-orientation: sideways;
     writing-mode: vertical-lr;
+    padding-top: 10px;
+    font-family: 'PT Serif', serif;
   }
 
 
@@ -39,7 +42,6 @@
     background-color: rgb(64, 64, 170);
     color: rgb(255, 255, 255);
     width: auto;
-    
 }
 
 
@@ -73,23 +75,26 @@ img.mann{
   height: 400px;
   margin-top: 30px;
 }
+
 #overskrift1 {
     font-size: 250%;
-    font-family: Arial;
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: bolder;
     position: absolute;
+    text-shadow: 1px 1px 2px rgb(17, 12, 13);
     top: 20%;
     color: white;
     background-repeat: no-repeat;
 
     margin-left: 65px;
 }
+
 .tittelbilde figcaption {
     border-style: solid transparent;
     width: 70%;
     margin-left: 5px;
     font-size: 60%;
 }
-
 
 
 .innledning {
@@ -99,7 +104,6 @@ img.mann{
     display: left;
     width: 42%;
     margin-left: 30px;
-
 }
 
 .innhold {
@@ -108,7 +112,6 @@ img.mann{
     width: 75%;
     margin-left: 30px;
 }
-
 
 .innhold p {
     text-indent: 2em;

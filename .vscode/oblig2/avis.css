@@ -7,6 +7,10 @@
     text-orientation: upright;
 }
 
+.head {
+    position: absolute;
+}
+
 .grid-container {
     display: grid;
   }
@@ -21,7 +25,7 @@
     color: black;
     width: auto;
     height: auto;
-    margin-top:30px;
+    margin-top: 50px;
   }
 
   .grid-item p{
@@ -33,7 +37,7 @@
 
 
   .hovedinnhold{
-    margin-top: 20px;
+    margin-top: 50px;
   }
 
  
